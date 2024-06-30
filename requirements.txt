@@ -1,0 +1,12 @@
+Flask
+Flask-HTTPAuth
+Flask-SQLAlchemy
+Flask-SocketIO
+Flask-Caching
+Flask-Limiter
+Authlib
+APScheduler
+PyYAML
+sqlalchemy
+pytest
+pytest-flask
